@@ -1,0 +1,11 @@
+--2023-08-07 14:15:51--  https://dl.google.com/linux/linux_signing_key.pub
+Resolving dl.google.com (dl.google.com)... 142.250.193.110, 2404:6800:4007:81f::200e
+Connecting to dl.google.com (dl.google.com)|142.250.193.110|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 14605 (14K) [application/octet-stream]
+Saving to: ‘STDOUT’
+
+-                                                    0%[                                                                                                                 ]       0  --.-KB/s               -                                                  100%[================================================================================================================>]  14.26K  --.-KB/s    in 0.01s   
+
+2023-08-07 14:15:51 (1.29 MB/s) - written to stdout [14605/14605]
+
