@@ -1,0 +1,5 @@
+#! /bin/bash
+docker build --no-cache -t $1:latest .
+#docker rm $2 --force
+docker run -d --name $1 
+docker run -p $3:$3 ukpa_app_api
